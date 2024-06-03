@@ -9,5 +9,6 @@ Welcome to CodePlayground! This repository is a personal collection of various t
 ## Contents
 Index of content in this repo!
 
+
 * [JupyterMagicCommands/](JupyterMagicCommands/): Learn about Jupyter Magic Commands & how to use them! 
 
